@@ -37,6 +37,7 @@ return {
 				"emmet_ls",
 				"prismals",
 				"pyright",
+				"jdtls", -- NOTE: en treesiter se pone java y aqui se pone el interprete
 			},
 		})
 
